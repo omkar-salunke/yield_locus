@@ -17,11 +17,11 @@ pip install yield_locus
 
 Usage
 -----
-
->>> import yield_locus
->>> yield_locus.hill48(R0,R90,yield_stress)
-
-Usage
+```
+import yield_locus
+yield_locus.hill48(R0,R90,yield_stress)
+```
+Details
 -----
 For more information please refer
 	1.	R. Hill. (1948). A theory of the yielding and plastic flow of anisotropic metals. Proc. Roy. Soc. London, 193:281–297
